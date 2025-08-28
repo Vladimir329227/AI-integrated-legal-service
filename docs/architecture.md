@@ -4,8 +4,7 @@
 
 Система состоит из основных компонентов:
 1. **Веб-приложение** (React + TypeScript) - Фаза 1
-2. **Десктопное приложение** (VS Code Extension) - Фаза 2
-3. **Backend API** (FastAPI + Python) - Фаза 1
+2. **Backend API** (FastAPI + Python) - Фаза 1
 
 ## Диаграмма архитектуры
 
@@ -13,7 +12,6 @@
 graph TB
     subgraph "Frontend Layer"
         Web[Веб-приложение<br/>React + TypeScript]
-        Desktop[Десктопное приложение<br/>VS Code Extension]
     end
     
     subgraph "API Gateway"
