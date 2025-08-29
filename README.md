@@ -14,6 +14,7 @@
 - **[analytics/competitor-features.md](./analytics/competitor-features.md)** - Анализ конкурентов и их функций
 - **[analytics/similar-projects.md](./analytics/similar-projects.md)** - Анализ похожих проектов
 - **[analytics/student-team-alternative.md](./analytics/student-team-alternative.md)** - Обоснование введения студенческой команды
+- **[analytics/llm-companies.md](./analytics/llm-companies.md)** - Сравнение LLM-компаний для юридической сферы
 
 ---
 
